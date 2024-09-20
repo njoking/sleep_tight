@@ -112,7 +112,7 @@
   width: auto;
   opacity: 0;
   z-index: 99;
-  background-color: #fff;
+  background-color: #d0cdcd;
   filter: alpha(opacity=0); }
 
 .select2-hidden-accessible {
@@ -251,7 +251,7 @@
   border: none;
   outline: 0;
   box-shadow: none;
-  -webkit-appearance: textfield; }
+  }
 
 .select2-container--default .select2-results > .select2-results__options {
   max-height: 200px;
